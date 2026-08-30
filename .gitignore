@@ -18,7 +18,6 @@ dist/
 htmlcov/
 
 # uv
-uv.lock
 
 # IDE / OS
 .idea/
