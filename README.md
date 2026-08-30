@@ -4,7 +4,7 @@ An opinionated FastAPI starter for AI services — typed, linted, tested, and
 containerized from commit zero. Clone it to start each new project with a green
 CI badge instead of scaffolding you'll "clean up later."
 
-![CI](https://github.com/<you>/<repo>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MeghnaB12/python-ai-service-templateactions/workflows/ci.yml/badge.svg)
 
 ## What's inside
 
